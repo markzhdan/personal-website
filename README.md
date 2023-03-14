@@ -5,7 +5,7 @@ My first fully developed website! Includes a title, subtitle, professional photo
 **[View Live](https://markzhdan.com/)**
 
 
-![pic2web](https://user-images.githubusercontent.com/51387320/192686015-c781f3bb-1e9d-4124-b08c-629a1906dbac.png)
+<img src="preview.png" alt="Website Preview" >
 
 
 # Features
